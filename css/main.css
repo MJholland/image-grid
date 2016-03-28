@@ -65,3 +65,8 @@ img:nth-child(5) {
     width: 66.6666%;
     display: inline-block;
   }
+
+  img:nth-child(5) {
+    display: inline-block;
+  }
+}
